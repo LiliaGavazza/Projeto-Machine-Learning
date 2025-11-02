@@ -4,6 +4,8 @@
  <img width="150" height="150" alt="CoX imagem" src="https://github.com/user-attachments/assets/012896bc-a56a-47c3-b13e-52f43c684471" />
 </p>
 
+## Cobalto e machine learning: uma atração magnética?
+
 Esse repositório contém o código-fonte referente ao projeto final da disciplina aprendizado de máquina, ministrada na Ilum - Escola de Ciência.
 
 Esse notebook codado em Python tem por objetivo prever o magnetismo de compostos que contém cobalto a partir de suas propriedades estruturais e estruturas eletrônicas.
