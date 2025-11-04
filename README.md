@@ -16,19 +16,13 @@ Os materiais aqui descritos são classificados em quatro níveis de magnetizaç�
 
 O dataset pertence ao database Materials Project, uma base de dados aberta que fornece informações sobre materiais já conhecidos ou preditos por supercomputação alinhada a métodos já consagrados para ajudar na projeção de novos materiais. Nele, pode-se filtrar os mais de 200000 registrados de acordo com o interesse do usuário. Sob a ótica da análise anterior, foram selecionados os materiais binários que contivessem cobalto e fossem experimentalmente observáveis, para realmente trabalhar com compostos da realidade.
 
-## Contribuidores
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e9785f1e-6c2a-4d5c-a014-757dc1ed01a7" alt="image1" width="180" height="200" />
-  <img src="https://github.com/user-attachments/assets/3908c686-c2e3-42e7-b5fa-ebc09f966d84" alt="image2" width="180" height="200" />
-  <img src="https://github.com/user-attachments/assets/11c69b63-e9eb-4f29-86f7-a1a41faef635" alt="image3" width="180" height="200" />
-</p>
+## Autores
 
 - Lília Helena Gavazza Pessôa
 - Lívia Maria Barbosa de Aragão
 - Sophia Alves da Silva
 
-## Professor
+## Orientador
 
 <p align="center">
  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/c3fd879e-0d40-4b17-a878-147431d09807" />
